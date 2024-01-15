@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Git Repo]()
-- Live Site URL:[Go Live]()
+- Solution URL: [Git Repo](https://github.com/MohamedElssaffy/Thirs-Challenge)
+- Live Site URL:[Go Live](https://mohamedelssaffy.github.io/Thirs-Challenge/)
 
 ## My process
 
